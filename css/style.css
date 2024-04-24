@@ -1,0 +1,57 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: brown;
+    color: bisque;
+}
+header{
+    text-align: center; 
+    font: 2rem;
+    padding: .5em;
+}
+
+.crafts{
+    height: 20em;
+    width: auto;
+    margin: .2em;
+}
+
+.container{
+    text-align: center;
+    width: 40em;
+    background-color: rgb(84, 82, 100);
+    margin: auto;
+    justify-content: center;
+    padding: 2em;
+}
+
+button{
+    padding: .5em;
+    font-size: 2rem;
+    background-color: bisque;
+    border-radius: 1em;
+    border: none;
+ 
+}
+
+button:hover{
+    background-color: burlywood;
+}
+.bird{
+    height: 20em;
+    width: auto;
+}
+
+footer{
+    background-color: black;
+    padding: 1em;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
